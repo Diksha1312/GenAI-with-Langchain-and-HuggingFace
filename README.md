@@ -4,8 +4,7 @@ This project is structured to progressively build your understanding and skills 
 
 ## Project Steps
 
-### Step 1: Python - Revisiting Basic Concepts of Python Programming
-**Status:** IN PROGRESS
+### Step 1: Python - Revisiting Basic Concepts of Python Programming [IN PROGRESS]
 
 This step involves a thorough review of the essential concepts of Python programming to ensure a strong foundation for the upcoming topics.
 
