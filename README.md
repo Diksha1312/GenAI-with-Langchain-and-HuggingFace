@@ -4,11 +4,11 @@ This project is structured to progressively build your understanding and skills 
 
 ## Project Steps
 
-### Step 1: Python - Revisiting Basic Concepts of Python Programming [IN PROGRESS]
+### Step 1: Python - Revisiting Basic Concepts of Python Programming 
 
 This step involves a thorough review of the essential concepts of Python programming to ensure a strong foundation for the upcoming topics.
 
-### Step 2: Basic Machine Learning for NLP
+### Step 2: Basic Machine Learning for NLP [IN PROGRESS]
 
 In this step, you'll explore the fundamentals of machine learning, specifically tailored for natural language processing tasks.
 
